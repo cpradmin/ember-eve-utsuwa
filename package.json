@@ -2,20 +2,20 @@
 	"name": "utsuwa",
 	"version": "0.20.1",
 	"packageManager": "pnpm@10.28.2",
-	"description": "An open-source VRM avatar companion app with AI chat, voice, memory, and relationship mechanics",
-	"author": "Juice Boxx Games LLC",
+	"description": "Eve's house vessel. Fork of Utsuwa: a local-first 3D VRM companion. Brain is our model. Body is this app.",
+	"author": "Bailey Home (fork of Juice Boxx Games LLC)",
 	"license": "AGPL-3.0-or-later",
 	"engines": {
 		"node": ">=22.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/JuiceBoxxGames/utsuwa.git"
+		"url": "git+https://github.com/cpradmin/ember-eve-utsuwa.git"
 	},
 	"bugs": {
-		"url": "https://github.com/JuiceBoxxGames/utsuwa/issues"
+		"url": "https://github.com/cpradmin/ember-eve-utsuwa/issues"
 	},
-	"homepage": "https://github.com/JuiceBoxxGames/utsuwa#readme",
+	"homepage": "https://github.com/cpradmin/ember-eve-utsuwa#readme",
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
