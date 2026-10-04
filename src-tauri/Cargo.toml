@@ -1,9 +1,9 @@
 [package]
 name = "utsuwa"
 version = "0.20.1"
-description = "An open-source VRM avatar companion app with AI chat, voice, memory, and relationship mechanics"
+description = "Eve's house vessel. Bailey Home fork of Utsuwa: local-first 3D VRM companion."
 license = "AGPL-3.0-or-later"
-authors = ["Juice Boxx Games LLC"]
+authors = ["Bailey Home (fork of Juice Boxx Games LLC)"]
 edition = "2021"
 rust-version = "1.70"
 
